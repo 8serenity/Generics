@@ -1,0 +1,6 @@
+c:\users\serenity\documents\visual studio 2015\Projects\TextCount\TextCount\bin\Debug\TextCount.exe.config
+c:\users\serenity\documents\visual studio 2015\Projects\TextCount\TextCount\bin\Debug\TextCount.exe
+c:\users\serenity\documents\visual studio 2015\Projects\TextCount\TextCount\bin\Debug\TextCount.pdb
+c:\users\serenity\documents\visual studio 2015\Projects\TextCount\TextCount\obj\Debug\TextCount.csprojResolveAssemblyReference.cache
+c:\users\serenity\documents\visual studio 2015\Projects\TextCount\TextCount\obj\Debug\TextCount.exe
+c:\users\serenity\documents\visual studio 2015\Projects\TextCount\TextCount\obj\Debug\TextCount.pdb

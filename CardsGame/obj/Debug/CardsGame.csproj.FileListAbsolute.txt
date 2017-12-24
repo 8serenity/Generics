@@ -1,0 +1,6 @@
+c:\users\serenity\documents\visual studio 2015\Projects\TextCount\CardsGame\bin\Debug\CardsGame.exe.config
+c:\users\serenity\documents\visual studio 2015\Projects\TextCount\CardsGame\obj\Debug\CardsGame.csprojResolveAssemblyReference.cache
+c:\users\serenity\documents\visual studio 2015\Projects\TextCount\CardsGame\bin\Debug\CardsGame.exe
+c:\users\serenity\documents\visual studio 2015\Projects\TextCount\CardsGame\bin\Debug\CardsGame.pdb
+c:\users\serenity\documents\visual studio 2015\Projects\TextCount\CardsGame\obj\Debug\CardsGame.exe
+c:\users\serenity\documents\visual studio 2015\Projects\TextCount\CardsGame\obj\Debug\CardsGame.pdb
